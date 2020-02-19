@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'blog.javiergarcia.io',
+  url: 'https://blog.javiergarcia.io',
   pathPrefix: '/',
   title: 'Blog by Javier Garcia',
   subtitle: 'Constantly seeking inspiration.',
-  copyright: 'Hit me up if you wanna chat.',
+  copyright: 'My favorite face typeface is Knockout.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-89383814-5',
