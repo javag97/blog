@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://blog.javiergarcia.io',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Blog by Javier Garcia',
+  subtitle: 'Constantly seeking inspiration.',
+  copyright: 'My favorite typeface is Knockout.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-89383814-5',
   useKatex: false,
   menu: [
     {
@@ -16,28 +16,24 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Javier Garcia',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Constantly seeking inspiration.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'javier.garcia549@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: 'javag97',
+      github: 'javag97',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'javigme',
+      instagram: 'javag97',
       line: '',
       gitlab: '',
       weibo: '',
