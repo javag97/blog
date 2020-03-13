@@ -1,8 +1,7 @@
 ---
 template: page
 title: Interaction Designer
-socialImage: /media/personal.jpg
-slug: /about
+slug: /pages/about
 draft: true
 ---
 
