@@ -9,6 +9,8 @@ category: Self Improvement
 tags:
   - Self Improvement
 ---
+![](/media/twitter.com_mgoldst_status_1036305471928455173.png)
+
 ## Consistency > Intensity 
 
 I often find in hustle culture that people are encouraged to give up everything for the sake of getting a new job, or getting that sweet promotion you've been looking for.  Now, this isn't problemaic in periods of occasional stress. This becomes a problem when people begin to confuse  consitent and frequent work with intense yet sporatic work. 
@@ -19,7 +21,6 @@ I want to make it clear that I am not arguing against hard work. There is a time
 
 If you're interested in growing consistently, you the most important thing to do is to **build healthy habits.** Society often reinforces that “the struggle” is what will lead to growth. I'm here to challenge that and I think others are too. 
 
-![](/media/twitter.com_mgoldst_status_1036305471928455173.png)
 
 ### **Summary** 
 
