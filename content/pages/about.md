@@ -1,9 +1,7 @@
 ---
-template: page
-title: Interaction Designer
-slug: /about
-draft: true
-socialImage: test
+title: "About me"
+template: "page"
+socialImage: "/media/image-2.jpg"
 ---
 
 My name is Javier (he/him/his) and I am a web technologist turned designer. My interests include typography, JAMstack, and (most importantly) people.
