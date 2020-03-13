@@ -1,13 +1,13 @@
 ---
 template: post
 title: 'How to grow consistently as a designer '
-slug: /consistency-over-intensity
-draft: true
+slug: consistency-over-intensity
+draft: false
 date: 2020-03-13T18:45:19.516Z
 description: 'Some advice to others looking to take themselves to the next level. '
-category: self-improvement
+category: Self Improvement
 tags:
-  - self improvement
+  - Self Improvement
 ---
 ## Consistency > Intensity 
 
