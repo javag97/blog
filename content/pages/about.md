@@ -1,7 +1,7 @@
 ---
 template: page
 title: Interaction Designer
-slug: /pages/about
+slug: about
 draft: true
 ---
 
