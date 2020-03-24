@@ -2,7 +2,7 @@
 template: post
 title: 'Case Study: StArt'
 slug: case-study-start
-draft: true
+draft: false
 date: 2018-09-26T20:24:19.848Z
 description: >-
   This case study is for a concept app created for a mobile research and product
