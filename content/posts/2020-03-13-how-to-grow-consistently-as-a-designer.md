@@ -9,7 +9,7 @@ category: Self Improvement
 tags:
   - Self Improvement
 ---
-![](/media/twitter.com_mgoldst_status_1036305471928455173.png)
+![Dear Design Students, All-nigheters are not heroic.](/media/twitter.com_mgoldst_status_1036305471928455173.png)
 
 ## Consistency > Intensity 
 
